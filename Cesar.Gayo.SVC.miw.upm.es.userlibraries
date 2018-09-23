@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="junit:junit:4.12">
+    <archive path="D:/Google Drive/Educacion/ETSISI-MIW/Cesar.Gayo.SVC.miw.upm.es/lib/junit-4.12.jar" />
+    <archive path="D:/Google Drive/Educacion/ETSISI-MIW/Cesar.Gayo.SVC.miw.upm.es/lib/hamcrest-core-1.3.jar" />
+  </library>
+</eclipse-userlibraries>
+
