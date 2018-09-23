@@ -1,0 +1,6 @@
+language: java
+git:
+  -depth: 50
+install: true
+deploy:
+  - skip_cleanup: true
