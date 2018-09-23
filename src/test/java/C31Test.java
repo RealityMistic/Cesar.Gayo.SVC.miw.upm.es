@@ -19,4 +19,11 @@ public class C31Test  {
         float expected_float =15.0f;
         assertEquals(c31_to_test.m2(testparam1, testparam2), expected_float, 0.002f);
     }
+    @Test
+    public void mBTest(){
+        C31 c31_to_test = new C31();
+        String param1 = "param1";
+        String param2 = "param2";
+        assertEquals("param1+param2",c31_to_test.mB(param1,param2) );
+    }
 }
