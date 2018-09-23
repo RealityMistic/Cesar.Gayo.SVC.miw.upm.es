@@ -15,7 +15,7 @@ public class C31Test  {
         C31 c31_to_test = new C31();
         float testparam1, testparam2;
         testparam1 = 5.2f;
-        testparam2 = 3;
+        testparam2 = 3.0f;
         float expected_float =15.6f;
         assertEquals(c31_to_test.m2(testparam1, testparam2), expected_float, 0.002f);
     }
